@@ -28,15 +28,6 @@ This project demonstrates how intelligent systems analyze data and make decision
 
 ---
 
-## Project Structure
-
-AI-Recommendation-System/
-│
-├── main.py
-└── README.md
-
----
-
 ## Requirements
 
 - Python 3.x  
