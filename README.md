@@ -60,7 +60,7 @@ git clone (https://github.com/vaishnaviupadhyayy/ai_recommendation_system)
 
 2. Navigate to the folder:
 
-cd ai-career-recommendation-system
+cd ai_recommendation_system
 
 3. Run the program:
 
