@@ -70,48 +70,42 @@ python main.py
 
 ## Sample Output
 
-Welcome to your AI Career Guide!
+ Welcome to your AI Career Guide!
 Answer a few questions and get career suggestions tailored for you.
 
+
 ===== MENU =====
-
-View Career Options
-Get Career Recommendations
-Exit
-
+1. View Career Options
+2. Get Career Recommendations
+3. Exit
 Enter choice: 2
-
 Rate yourself honestly (1 = low, 10 = high)
 
-Logical Thinking: 9
-Creativity: 7
-Management Skills: 6
+Logical Thinking: 7
+Creativity: 9
+Management Skills: 8
 
 Here are some careers that match your profile:
 
-AI Engineer
-Software Developer
-DevOps Engineer
+1 . Entrepreneur
+2 . Digital Marketer
+3 . Product Manager
 
-Best Fit For You:
+ Best Fit For You:
+Entrepreneur
 
-AI Engineer
+ Why this suits you:
+- Because you are highly creative and you have good leadership and management skills.
 
-Why this suits you:
+ You may also explore:
+- Digital Marketer
+- Product Manager
 
-Because you have strong logical thinking.
+ You may find these challenging (for now):
+- Cloud Engineer
+- Cybersecurity Analyst
 
-You may also explore:
-
-Software Developer
-DevOps Engineer
-
-You may find these challenging (for now):
-
-Content Creator
-UI/UX Designer
-
-Tip:
+ Tip:
 Skills can always be improved. Don't limit yourself — explore and grow!
 
 ---
