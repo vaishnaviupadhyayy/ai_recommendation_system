@@ -1,128 +1,64 @@
 # AI Career Recommendation System
 
-## Project Overview
-This project presents a simple AI-based Career Recommendation System.
+## What This Project Does
 
-The system suggests suitable career paths based on a user's skill profile, focusing on logical thinking, creativity, and management abilities.
-
----
-
-## Problem Statement
-Choosing the right career path is a common challenge among students. Many lack clarity about which field aligns with their strengths.
-
-This project aims to address this problem by providing personalized career suggestions using a basic AI-driven approach.
+This project is a simple AI-based system that recommends suitable career paths based on a user’s skills such as logical thinking, creativity, and management ability.
 
 ---
 
-## Methodology
-Each career is represented using three features:
-- Logical Thinking
-- Creativity
-- Management Skills
+## Why This Project Matters
 
-The user provides their skill levels on the same scale.
-
-The system then:
-1. Compares user input with all career profiles
-2. Calculates similarity using a distance formula
-3. Sorts careers based on closeness
-4. Recommends the best matching options
+Many students are confused about choosing the right career. This system helps by giving basic career suggestions based on their strengths.
 
 ---
 
-## AI Concepts Applied
-- **Intelligent Agent**: Takes input and produces output based on logic  
-- **State Space Representation**: Each career is a possible state  
-- **Search Technique**: Linear search through all options  
-- **Feature Vector Representation**: Skills represented numerically  
-- **Decision-Making Strategy**: Selecting minimum difference  
+## How It Works
+
+* User enters skill levels
+* Program uses simple logic
+* Suitable career is displayed
 
 ---
 
-## Features
-- Command-line based interactive system  
-- User-friendly input handling  
-- Top 3 career recommendations  
-- Final best-fit suggestion  
-- Basic explanation of results  
+## Requirements
+
+* Python installed on your system
 
 ---
 
-## Tech Stack
-- Python 3
+## How to Set Up and Run
 
----
-
-## How to Run
-
-1. Clone the repository:
-git clone (https://github.com/vaishnaviupadhyayy/ai_recommendation_system)
-
-2. Navigate to the folder:
-
+```bash
+git clone https://github.com/vaishnaviupadhyayy/ai_recommendation_system.git
 cd ai_recommendation_system
-
-3. Run the program:
-
 python main.py
+```
 
 ---
 
-## Sample Output
+## How to Use
 
- Welcome to your AI Career Guide!
-Answer a few questions and get career suggestions tailored for you.
-
-
-===== MENU =====
-1. View Career Options
-2. Get Career Recommendations
-3. Exit
-Enter choice: 2
-Rate yourself honestly (1 = low, 10 = high)
-
-Logical Thinking: 7
-Creativity: 9
-Management Skills: 8
-
-Here are some careers that match your profile:
-
-1 . Entrepreneur
-2 . Digital Marketer
-3 . Product Manager
-
- Best Fit For You:
-Entrepreneur
-
- Why this suits you:
-- Because you are highly creative and you have good leadership and management skills.
-
- You may also explore:
-- Digital Marketer
-- Product Manager
-
- You may find these challenging (for now):
-- Cloud Engineer
-- Cybersecurity Analyst
-
- Tip:
-Skills can always be improved. Don't limit yourself — explore and grow!
+1. Run the program
+2. Enter your skill levels when asked
+3. View the recommended career
 
 ---
 
-## Results
-The system successfully provides career recommendations based on user inputs, demonstrating a practical application of AI decision-making techniques.
+## Project Files
+
+* main.py → main program file
+* README.md → project documentation
 
 ---
 
-## Future Scope
-- Integration with real-world datasets  
-- Use of machine learning models (e.g., KNN)  
-- Development of a web-based interface  
-- Adding more career parameters  
+## Output
+
+<img width="537" height="363" alt="Screenshot 2026-03-26 at 7 07 55 PM" src="https://github.com/user-attachments/assets/8db9c655-b03b-4bbf-8e8a-447364abf07c" />
+
+<img width="708" height="569" alt="Screenshot 2026-03-26 at 7 08 14 PM" src="https://github.com/user-attachments/assets/03b95252-f1a6-4e50-93d4-579247749659" />
 
 ---
 
-## Conclusion
-This project demonstrates how fundamental AI concepts can be applied to solve real-world problems in a simple and effective manner.
+## Author
 
+Vaishnavi Upadhyay
