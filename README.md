@@ -53,9 +53,10 @@ python main.py
 
 ## Output
 
-<img width="537" height="363" alt="Screenshot 2026-03-26 at 7 07 55 PM" src="https://github.com/user-attachments/assets/8db9c655-b03b-4bbf-8e8a-447364abf07c" />
+<img width="539" height="405" alt="Screenshot 2026-03-26 at 8 00 26 PM" src="https://github.com/user-attachments/assets/4b167cf2-c480-4456-afb5-9edc236a775a" />
 
-<img width="708" height="569" alt="Screenshot 2026-03-26 at 7 08 14 PM" src="https://github.com/user-attachments/assets/03b95252-f1a6-4e50-93d4-579247749659" />
+<img width="478" height="583" alt="Screenshot 2026-03-26 at 8 00 43 PM" src="https://github.com/user-attachments/assets/e893b10e-7fc8-45f6-adf3-c252a1577b8f" />
+
 
 ---
 
